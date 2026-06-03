@@ -9,7 +9,7 @@ A fan-made guide for the mobile game Hay Day, focused on helping players make th
 - Languages: JavaScript, HTML, CSS
 - Data: Local JSON files
 
-The app is available at https://pepppa9351.github.io/HayDayProfitGuide/
+The app is available at https://pepppa9351.github.io/hay-day-profit-guide/
 
 
 *This is an unofficial fan project and is not affiliated with Supercell or the Hay Day brand.*
